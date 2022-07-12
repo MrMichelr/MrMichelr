@@ -16,3 +16,5 @@ jobs:
         with:
           # Feed link
           feed_list: "http://www.mr-michel.com/feed/rss" 
+          max_post_count: 5
+          
