@@ -1,5 +1,7 @@
 name: Latest blog post workflow
 on:
+  push:
+      branches: ["main"]
   schedule: # Run workflow automatically
     - cron: '0 * * * *' # Runs every hour, on the hour
   workflow_dispatch: # Run workflow manually (without waiting for the cron to be called), through the GitHub Actions Workflow page directly
@@ -12,7 +14,7 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v2
       - name: Pull in dev.to posts
-        uses: gautamkrishnar/blog-post-workflow@v1
+        uses: gautamkrishnar/blog-post-workflow@master
         with:
           commit_message: "Updated readme with the latest Blog data"
           max_post_count: 5
