@@ -14,6 +14,7 @@ jobs:
       - name: Pull in dev.to posts
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
-          feed_list: "http://www.mr-michel.com/feed/rss" 
+          commit_message: "Updated readme with the latest Blog data"
           max_post_count: 5
+          feed_list: "http://www.mr-michel.com/feed/rss"
           
