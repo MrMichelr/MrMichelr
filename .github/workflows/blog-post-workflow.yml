@@ -13,7 +13,8 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v2
-      - uses: gautamkrishnar/blog-post-workflow@master
+      - name: Pull in blog posts
+        uses: gautamkrishnar/blog-post-workflow@1.7.5
         with:
           comment_tag_name: BLOG
           feed_list: "http://www.mr-michel.com/feed/rss"
