@@ -14,9 +14,8 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v2
       - name: Pull in dev.to posts
-        uses: MrMichelr/blog-post-workflow@master
+        uses: gautamkrishnar/blog-post-workflow@master
         with:
-          commit_message: "Updated readme with the latest Blog data"
-          max_post_count: 5
+          comment_tag_name: BLOG
           feed_list: "http://www.mr-michel.com/feed/rss"
           
