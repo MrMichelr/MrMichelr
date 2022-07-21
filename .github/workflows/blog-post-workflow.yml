@@ -17,5 +17,6 @@ jobs:
         uses: gautamkrishnar/blog-post-workflow@master
         with:
           comment_tag_name: BLOG
+          filter_comments: false
           feed_list: "http://www.mr-michel.com/feed/rss"
           

@@ -9,8 +9,8 @@ This is the place where I opensource stuff and explore new things
 
 
 📕 &nbsp;**Latest Blog Posts**
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+<!-- BLOG:START -->
+<!-- BLOG:END -->
 
 🔗 &nbsp;**Connect with me**
 
