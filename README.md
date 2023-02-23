@@ -28,6 +28,12 @@ Accordeon
 <details>
   <summary><b>💻&nbsp;&nbsp;Languages</b></summary>
   <br/>
-  
-  Text here
+  <ul>
+    <li>HTML</li> 
+    <li>CSS</li>
+    <li>JS</li>
+    <li>VueJS</li>
+    <li>Typescript</li>
+    <li>Swift</li>
+  </ul>
 </details>
