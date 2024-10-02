@@ -2,28 +2,27 @@
 MrMichelr/MrMichelr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-### Hi there
-This is the place where I opensource stuff and explore new things
+## Hi there
+Welcome to my little coding space. I essentially try things and experiment.
 
-- [WIP]
+On a day-to-day-basis, I'm a product designer. 
+But somtimes I like to deep dive into code and try to understand this wonderful digital world.
+
+I'm open to collaborations, works and more!
 
 
 🔗 &nbsp;**Connect with me**
 
-[WIP]
+- [X](https://x.com/MrMichelr)
+- [LinkedIn](https://www.linkedin.com/in/mrmichelr/?locale=en_US)
+- [Instagram](https://www.instagram.com/unmistakably_michel/)
+- [My website](https://www.mr-michel.com)
 
 
 ---
 <!-- 
 Accordeon 
 -->
-
-<details>
-  <summary><b>✨&nbsp;&nbsp;About&nbsp;Me</b></summary>
-  <br/>
-  
-  Text here
-</details>
 
 <details>
   <summary><b>💻&nbsp;&nbsp;Languages</b></summary>
