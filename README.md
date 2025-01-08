@@ -15,7 +15,7 @@ I'm open to collaborations, works and more!
 
 - [X](https://x.com/MrMichelr)
 - [LinkedIn](https://www.linkedin.com/in/mrmichelr/?locale=en_US)
-- [Instagram](https://www.instagram.com/unmistakably_michel/)
+- [Instagram](https://www.instagram.com/michojito)/)
 - [My website](https://www.mr-michel.com)
 
 
